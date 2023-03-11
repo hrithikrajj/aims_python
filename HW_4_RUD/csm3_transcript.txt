@@ -1,0 +1,20 @@
+Name : devesh
+Registration id : csm3
+Course Name : Artificial intelligence
+
+
+Sem 1 Performance :
+Course ID : CS503        ||      Credit Course : Machine Learning      ||      Title : Machine Learning      ||     Grade Rewarded : A        ||      Earned Credits: Machine Learning         ||       Points Secured : 36
+Course ID : CS506        ||      Credit Course : hello      ||      Title : hello      ||     Grade Rewarded : B        ||      Earned Credits: hello         ||       Points Secured : 24
+Course ID : CS511         ||      Credit Course : Real Time Systems      ||      Title : Real Time Systems      ||     Grade Rewarded : B        ||      Earned Credits: Real Time Systems         ||       Points Secured : 24
+Course ID : CS524        ||      Credit Course :  Data Mining       ||      Title :  Data Mining       ||     Grade Rewarded : A        ||      Earned Credits:  Data Mining          ||       Points Secured : 27
+
+Sem 1 CGPA : 7.928571428571429
+
+Credits earned in first semester are : 14
+
+
+Sem 2 Performance :
+
+Sem 2 CGPA : 0.0
+Credits earned in second semester are : 14
